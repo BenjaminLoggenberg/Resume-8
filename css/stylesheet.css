@@ -181,3 +181,192 @@ color:  #353535;
   font-family: fantasy;
   font-weight: lighter;
 }
+
+@media only screen and (max-width: 600px) {
+  header {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 3vw;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  header {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 2vw;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  header {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 2vw;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  #Sidebar {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 3vw;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  #Sidebar {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 2vw;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  #Sidebar {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 2vw;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  article {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 3vw;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  article {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 2vw;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  article {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 2vw;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  #Jobs {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 3vw;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  #Jobs {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 2vw;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  #Jobs {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 2vw;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  #Skill {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 3vw;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  #Skill {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 2vw;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  #Skill {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 2vw;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  #Interests {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 3vw;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  #Interests {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 2vw;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  #Interests {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 2vw;
+  }
+}
+@media only screen and (max-width: 600px) {
+  #Footer {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 3vw;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  #Footer {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 2vw;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  #Footer {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 2vw;
+  }
+}
+
